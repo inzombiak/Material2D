@@ -17,4 +17,5 @@ All artwork is from OpenGameArt.org
  * Tles - http://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects
  * Enemies - http://opengameart.org/content/dungeon-crawl-32x32-tiles
  * Hero - cant find it
-Animations were create using [darkFunction Editor](http://opengameart.org/)
+ 
+Animations were create using [darkFunction Editor](http://darkfunction.com/editor/)
