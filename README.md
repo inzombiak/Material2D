@@ -4,7 +4,7 @@
 The UI was never cleaned up, but the buttons in the lower area change the element that is placed after the PC as it walks around, blue being ice and
 red being fire. There may be some bugs I haven't ironed out yet
 
-While working on [Material](https://github.com/inzombiak/Material), I realized it would take longer to test basic mechanics in 3D than in 2D
+While working on a 3D surface material changing prototype, I realized it would take longer to test basic mechanics in 3D than in 2D
 and since I already had a large part of the code for this from BeatHeroes, I decided to test it out in 2D.
 
 Most of the logic for what I explain below can be found is implemented in Lua, the scripts can be found in the "Scripts" folder.
