@@ -14,7 +14,7 @@ and continues to run in the same direction. The barrels are explosive (Explosive
 In the next area when the switch (Trigger.lua) is stepped on the ball (RollingStone.lua) rolls and hits a wall (Breakable.lua), but it moves too slow to break it.
 
 All artwork is from OpenGameArt.org
- * Tles - http://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects
+ * Tiles - http://opengameart.org/content/rpg-tiles-cobble-stone-paths-town-objects
  * Enemies - http://opengameart.org/content/dungeon-crawl-32x32-tiles
  * Hero - cant find it
  
