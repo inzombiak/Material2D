@@ -19,3 +19,6 @@ All artwork is from OpenGameArt.org
  * Hero - cant find it
  
 Animations were create using [darkFunction Editor](http://darkfunction.com/editor/)
+
+## Requirements
+SFML for drawing
