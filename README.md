@@ -20,5 +20,5 @@ All artwork is from OpenGameArt.org
  
 Animations were create using [darkFunction Editor](http://darkfunction.com/editor/)
 
-## Requirements
-SFML for drawing
+## Build Requirements:
+SFML 2.4.2 for rendering
