@@ -1,7 +1,7 @@
 # Material2D
 2D version of Material used to test mechanics
 
-Windows version (I made a new version to avoid breaking this one): (Material2D_Win)[https://github.com/inzombiak/Materials2D_Win/]
+Windows version (I made a new version to avoid breaking this one): [Material2D_Win](https://github.com/inzombiak/Materials2D_Win/)
 
 The UI was never cleaned up, but the buttons in the lower area change the element that is placed after the PC as it walks around, blue being ice and
 red being fire. There may be some bugs I haven't ironed out yet
